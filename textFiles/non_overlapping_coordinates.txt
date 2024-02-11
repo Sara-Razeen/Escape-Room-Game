@@ -1,0 +1,5 @@
+644 134 images/bloodyKnife.png
+224 401 images/palm.png
+154 278 images/letter.png
+415 247 images/syringe.png
+39 129 images/key.png

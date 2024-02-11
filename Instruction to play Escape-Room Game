@@ -1,0 +1,38 @@
+# Escape-Room-Game
+Instruction to play Escape-Room Game
+Escape room game project offers an immersive and eye-catching gaming experience. Players begin by entering a sequence of finely crafted doors, each of which hides 
+a challenge or puzzle requiring quick thinking. Players receive code as rewards for solving these puzzles correctly; these passwords open each succeeding door. 
+The project's objective is to offer an immersive experience across multiple virtual locations, with every door offering a unique theme and set of obstacles. 
+Players can manage the game with ease because to the intuitive design and user-friendly interface. An interesting and dynamic gameplay experience is enhanced by the 
+wide variety of puzzles, interactive components, and various feedback systems. Upon reaching a door the instruction to play the specific game is displayed to the user, 
+also includes the options for starting the game.
+
+1. Cipher Quest:
+   - Decode a word encrypted using Caesar Cipher.
+   - Player uses a virtual keyboard to enter characters and decode the text.
+   - Enter the correct decoded text within three attempts.
+   - Revealed password for the next level.
+
+2. Mystix Mix:
+   - Memorize potion codes and properties, then match the correct potion to a given scenario.
+   - Navigate through images of potions using arrow keys, then enter the chemical code.
+   - Enter the correct chemical code for the scenario.
+   - Access to the next adventure with the correct code.
+
+3. Detective, May I?:
+   - Find hidden objects matching a list of items displayed on the screen.
+   - Search for and click on objects in the left section that match the listed items on the right.
+   - Find and click on all objects in the correct order.
+   - Open the door for the next adventure after finding all objects.
+
+4. Quest Quandary:
+   - Explore a puzzling maze and uncover the hidden Node 10.
+   - Make smart choices, solve mysteries, decode clues, and face challenges at each stage.
+   - Progress by making correct choices, as wrong ones bring challenges.
+   - Reach the ultimate face-off at Node 10 by relying on clever answers and strategic thinking.
+
+5. Maze:
+   - Navigate a maze using arrow keys to reach the red box, representing freedom.
+   - Use arrow keys to move through the maze, encountering walls and pathways.
+   - Reach the red box within the time limit.
+   - Victory in this final challenge means freedom from the escape room.

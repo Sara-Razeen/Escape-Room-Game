@@ -1,0 +1,5 @@
+images/knife.png
+images/palm.png
+images/letter.png
+images/syringe.png
+images/key.png
